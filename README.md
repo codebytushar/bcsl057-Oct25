@@ -8,6 +8,14 @@
 - **MySQL Workbench Community 8.0.43 (Windows x64)**  
   [Download](https://cdn.mysql.com//Downloads/MySQLGUITools/mysql-workbench-community-8.0.43-winx64.msi)
 
+## IDE / Server Download Links
+
+- **Apache NetBeans**  
+  [Download](https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/v27-build1/Apache-NetBeans-27.exe)
+
+- **Apache Tomcat**  
+  [Download](https://dlcdn.apache.org/tomcat/tomcat-11/v11.0.12/bin/apache-tomcat-11.0.12-windows-x64.zip)
+
 ---
 
 ## SQL Script
