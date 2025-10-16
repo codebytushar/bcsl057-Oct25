@@ -32,7 +32,7 @@ CREATE TABLE course_author (
 );
 
 -- Insert data into course_author table
-INSERT INTO course_author (course_name, block_name, author_name)
+INSERT INTO course_author (topic, block_number, author_name)
 VALUES
     ('HTML',   'Block 1', 'Sharma'),
     ('Spring', 'Block 2', 'Mishra'),
