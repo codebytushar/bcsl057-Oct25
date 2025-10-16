@@ -8,6 +8,9 @@
 - **MySQL Workbench Community 8.0.43 (Windows x64)**  
   [Download](https://cdn.mysql.com//Downloads/MySQLGUITools/mysql-workbench-community-8.0.43-winx64.msi)
 
+- **Visual Studio 2019 vc+**  
+  [Download](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+
 ## IDE / Server Download Links
 
 - **Apache NetBeans**  
